@@ -15,7 +15,7 @@ Software engineer and systems architect focused on high-performance web architec
 
 ### 🧠 Linguistics & Independent Projects
 
-Polyglot working across **English, Dutch, French, Portuguese, and Spanish**.
+Polyglot working across **English, Dutch, French, Portuguese, Japanese, Swedish and Spanish**.
 
 Currently reading R.L. Trask's *Historical Linguistics* to support the design and development of **Project Lingua**, a forensic investigative mystery game where 19th-century comparative philology, diachronic sound laws, and sociolinguistic registers serve as the core mechanics instead of combat.
 
