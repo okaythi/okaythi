@@ -1,27 +1,19 @@
-### Hi, I'm Thy 👋
+### Hi, I'm Thy
 
-Software engineer and systems architect focused on high-performance web architecture, distributed systems, and the intersection of historical linguistics with interactive software.
+I write software. Mostly backend and infra stuff, sometimes web, occasionally things that have nothing to do with either.
 
----
+## What I work on
 
-### 💻 Systems & Web Engineering
+Just generally automating the process of standing up a box from nothing. Provisioning scripts, systemd units, figuring out why a service works fine manually but breaks on first boot. Not glamorous but satisfying when it finally comes together.
 
-* **Frontend & Architecture:** Astro (Islands architecture), Zero-JS by default, SSR, modern CSS custom properties, client-side state management, WCAG accessibility compliance, and critical rendering path optimization.
-* **Concurrency & Runtime Internals:** Multithreading via Web Workers, Node.js Worker Threads, `SharedArrayBuffer`, Atomics, and non-blocking asynchronous I/O.
-* **Backend & Distributed Data:** RESTful API design, OAuth 2.0, WebSockets, serverless edge compute, atomic database transactions, and Multi-Version Concurrency Control (MVCC).
-* **Cloud & Infrastructure:** Cloudflare ecosystem (Workers, Pages, D1, R2, DNS, WAF), DigitalOcean, GCP, and Linux desktop/systems performance tuning.
+I also spend time on concurrency and data consistency problems: worker threads, SharedArrayBuffer, MVCC, that kind of thing. Most of my infra lives on Cloudflare (Workers, D1, R2) with some DigitalOcean and GCP depending on the project.
 
----
+## Project Lingua
 
-### 🧠 Linguistics & Independent Projects
+A side project I've been chipping away at: a mystery game where the puzzle-solving is done through historical linguistics instead of combat or inventory logic. 19th-century comparative philology, sound laws, cognates, dialectal drift, as the actual game mechanic. I've been working through Trask's *Historical Linguistics* to make sure the game doesn't embarrass itself in front of anyone who actually studies this stuff.
 
-Polyglot working across **English, Dutch, French, Portuguese, Japanese, Swedish and Spanish**.
+## Other stuff
 
-Currently reading R.L. Trask's *Historical Linguistics* to support the design and development of **Project Lingua**, a forensic investigative mystery game where 19th-century comparative philology, diachronic sound laws, and sociolinguistic registers serve as the core mechanics instead of combat.
+I speak or read English, Dutch, French, Portuguese, Japanese, Swedish, and Spanish at varying levels. That's basically why the linguistics project exists in the first place.
 
----
-
-### 🎹 Outside of Code
-
-* **Music:** Classical piano and organ, music theory (sound and harmony). Deep appreciation for Bach and Beethoven alongside post-hardcore, MPB, and art pop.
-* **Writing:** Narrative design, period-accurate prose, and comparative phonology.
+Outside of code: piano, more Bach and Beethoven than is probably healthy, and I happen to be working on this MusicXML parser too (harder than I'd expected), plus post-hardcore and MPB when I need a break from counterpoint. I also write. Narrative stuff and little verses that never see the light of day.
